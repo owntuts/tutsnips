@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Tutsnips',
   tagline: 'Tutsnips',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://tutsnips.github.io/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
