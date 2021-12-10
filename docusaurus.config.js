@@ -9,7 +9,7 @@ const config = {
   title: 'Tutsnips',
   tagline: 'Tutsnips',
   url: 'https://tutsnips.github.io/',
-  baseUrl: '/',
+  baseUrl: '/tutsnips/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
