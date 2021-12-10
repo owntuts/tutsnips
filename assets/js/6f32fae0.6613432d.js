@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktutsnips=self.webpackChunktutsnips||[]).push([[254],{9412:function(s){s.exports=JSON.parse('{"allTagsPath":"/tutsnips/blog/tags","slug":"/tutsnips/blog/tags/docusaurus","name":"docusaurus","count":4,"permalink":"/tutsnips/blog/tags/docusaurus"}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktutsnips=self.webpackChunktutsnips||[]).push([[665],{3779:function(t){t.exports=JSON.parse('{"permalink":"/tutsnips/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktutsnips=self.webpackChunktutsnips||[]).push([[338],{7142:function(s){s.exports=JSON.parse('{"allTagsPath":"/tutsnips/blog/tags","slug":"/tutsnips/blog/tags/hola","name":"hola","count":1,"permalink":"/tutsnips/blog/tags/hola"}')}}]);
