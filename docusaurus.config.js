@@ -13,7 +13,7 @@ const config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'mytuts', // Usually your GitHub org/user name.
+  organizationName: 'heinhoang', // Usually your GitHub org/user name.
   projectName: 'tutsnips', // Usually your repo name.
 
   presets: [
