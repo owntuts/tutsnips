@@ -1,0 +1,16 @@
+export const listClass = (propsList) => {
+    if(propsList === 'props')
+        return 'list-thumb-up pdl';
+    else if(propsList === 'cons')
+        return 'list-thumb-down pdl';
+    else if(propsList === 'used')
+        return 'list-check pdl';
+    else if(propsList === 'un-used')
+        return '';
+    else if(propsList === 'features')
+        return 'list-askt pdl';
+}
+
+<div className={listClass(props.lst)}>
+    {props.children}
+</div>
