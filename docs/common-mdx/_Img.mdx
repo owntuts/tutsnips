@@ -1,0 +1,7 @@
+export const handleError = (e)=>{
+  e.target.src = '/tutsnips' + e.target.src;
+}
+
+<p align="center">
+  <img src={props.src} width={props.width ? props.width : '80%'} onError={handleError}/>
+</p>

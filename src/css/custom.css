@@ -14,6 +14,8 @@
   --ifm-color-primary-lighter: rgb(102, 212, 189);
   --ifm-color-primary-lightest: rgb(146, 224, 208);
   --ifm-code-font-size: 95%;
+  --ifm-font-family-monospace: monospace, "Segoe UI", "Noto Sans", Arial;
+  --ifm-font-family-base: monospace, "Segoe UI", "Noto Sans", Arial;
 }
 
 .docusaurus-highlight-code-line {
@@ -25,4 +27,33 @@
 
 html[data-theme='dark'] .docusaurus-highlight-code-line {
   background-color: rgba(0, 0, 0, 0.3);
+}
+
+.pdl {
+  padding-left: 15px;
+}
+.list-askt ul li::marker, .list-thumb-up ul li::marker, .list-thumb-down ul li::marker, .list-check ul li::marker {
+  color: green;
+  font-size: small;
+}
+
+.list-askt ul li::marker {
+  content: "✱ ";
+  font-size: large;
+}
+
+.list-thumb-up ul li::marker {
+  content: "👍 ";
+  color: transparent;  
+  text-shadow: 0 0 0 green;
+}
+
+.list-thumb-down ul li::marker {
+  content: "👎 ";
+  color: transparent;  
+  text-shadow: 0 0 0 green;
+}
+
+.list-check ul li::marker {
+  content: "✔️ ";
 }
